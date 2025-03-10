@@ -11,6 +11,7 @@ A list of other related deps including the ones contained here as as followed:
 X11 dependencies:
 - xorg-x11-server-Xorg
 - xorg-x11-xauth
+
 maya dependencies:
 - libXp
 - libtiff
